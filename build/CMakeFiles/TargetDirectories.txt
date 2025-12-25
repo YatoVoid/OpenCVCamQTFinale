@@ -1,0 +1,7 @@
+/home/wali/VisualStudioCpp/OpenCVCamQT/build/CMakeFiles/OpenCVCamQT.dir
+/home/wali/VisualStudioCpp/OpenCVCamQT/build/CMakeFiles/edit_cache.dir
+/home/wali/VisualStudioCpp/OpenCVCamQT/build/CMakeFiles/rebuild_cache.dir
+/home/wali/VisualStudioCpp/OpenCVCamQT/build/CMakeFiles/list_install_components.dir
+/home/wali/VisualStudioCpp/OpenCVCamQT/build/CMakeFiles/install.dir
+/home/wali/VisualStudioCpp/OpenCVCamQT/build/CMakeFiles/install/local.dir
+/home/wali/VisualStudioCpp/OpenCVCamQT/build/CMakeFiles/install/strip.dir

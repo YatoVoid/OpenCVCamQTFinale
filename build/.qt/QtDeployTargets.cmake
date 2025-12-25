@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_OpenCVCamQT_FILE /home/wali/VisualStudioCpp/OpenCVCamQT/build/OpenCVCamQT)
+set(__QT_DEPLOY_TARGET_OpenCVCamQT_TYPE EXECUTABLE)
